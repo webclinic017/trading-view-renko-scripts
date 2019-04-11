@@ -3,7 +3,7 @@
 Renko scripts to be used when creating signals from Trading View
 
 ##############################################################
-Some resources based on which those scripts were created: ###
+Some resources based on which those scripts were created:
 ############################################################
 
 1) https://www.tradingview.com/script/kcQ88UH2-Renko-MAGIC-Alert/
@@ -20,7 +20,7 @@ Some resources based on which those scripts were created: ###
 2) Renko Sell/Long Alerts: https://uk.tradingview.com/script/651jwEAt-Renko-ALerts/
 
 #######################################
-Trading View dashboards and alerts: ##
+Trading View dashboards and alerts: 
 #####################################
 
 1) Open Close Strategy running on UK100GBP: https://uk.tradingview.com/chart/80dcXyB3/
